@@ -3,6 +3,13 @@
 The directory organizes as follows:
 ```
 kv1000/
+    Figs/
+        'FigA - Time x Threads.png'
+        'FigA2 - Time x Threads.png'
+        'FigB - Speedup x Threads.png'
+        'FigB2 - Speedup x Threads.png'
+        'FigC - Efficiency x Threads.png'
+        'FigC2 - Efficiency x Threads.png' 
     analysis/
         data/
             processed_time_data.txt
@@ -11,13 +18,6 @@ kv1000/
             calculate_speedup_n_efficiency.py
             graphics_kv1000_runtime.R
             runtime_parKVFinder_analysis.py
-    Figs/
-        'FigA - Time x Threads.png'
-        'FigA2 - Time x Threads.png'
-        'FigB - Speedup x Threads.png'
-        'FigB2 - Speedup x Threads.png'
-        'FigC - Efficiency x Threads.png'
-        'FigC2 - Efficiency x Threads.png'     
     kv1000/
         data/
             kv1000_information.txt
