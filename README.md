@@ -41,6 +41,7 @@ kv1000/
         24cores/
             *_KVFinder_3run_24cores.csv
     .gitignore
+    LICENSE
     README.md
 ```
 
